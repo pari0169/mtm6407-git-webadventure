@@ -1,2 +1,3 @@
 You begin climbing the mountain. The air gets thinner, and the path becomes steeper.  
 At the top, you spot something shining in the rocks...
+As you get closer, you realize it’s a small chest wedged between two boulders.  
