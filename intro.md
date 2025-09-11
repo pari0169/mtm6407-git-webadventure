@@ -7,5 +7,7 @@ Do you want to [explore the forest](./forest.md) or [return home](home.md)?
 
 [Option a](./option-apple.md)
 [mountain](mountain.md)
+[forest](forest.md)
+[mushroom](mushroom.md)
 
 >>>>>>> main
